@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonaApp", "PersonaApp\PersonaApp.csproj", "{83C1021D-D2A2-4485-959B-F8FE7882E496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonaLibrary", "PersonaLibrary\PersonaLibrary.csproj", "{176E1FCF-9440-4B11-B114-DE4B47FED5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C1021D-D2A2-4485-959B-F8FE7882E496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C1021D-D2A2-4485-959B-F8FE7882E496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C1021D-D2A2-4485-959B-F8FE7882E496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C1021D-D2A2-4485-959B-F8FE7882E496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176E1FCF-9440-4B11-B114-DE4B47FED5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176E1FCF-9440-4B11-B114-DE4B47FED5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176E1FCF-9440-4B11-B114-DE4B47FED5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176E1FCF-9440-4B11-B114-DE4B47FED5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0C39E91-40BA-442D-800F-964B9A0BF9FB}
+	EndGlobalSection
+EndGlobal
